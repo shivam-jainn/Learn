@@ -1,0 +1,13 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.eol": "\n",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorSurroundingLines": 2,
+  "editor.formatOnSave": true,
+  "editor.semanticHighlighting.enabled": true,
+  "editor.smoothScrolling": true,
+  "errorLens.messageTemplate": "$message ($source)",
+  "errorLens.onSave": true,
+  "errorLens.searchForProblemQuery": "https://www.google.com/search?q=$message",
+}

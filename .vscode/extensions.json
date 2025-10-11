@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "github.copilot",
+    "github.copilot-chat",
+    "tamasfe.even-better-toml",
+    "ms-toolsai.jupyter",
+    "ms-python.mypy-type-checker",
+    "ms-python.vscode-pylance",
+    "KevinRose.vsc-python-indent",
+    "charliermarsh.ruff",
+    "njpwerner.autodocstring",
+    "usernamehw.errorlens"
+  ]
+}

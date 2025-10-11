@@ -1,1 +1,0 @@
-This is ML-ZOOMCAMP hw folder
